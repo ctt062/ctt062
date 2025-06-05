@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Tin Tak (Douglas) Chong
+# 👋 Hi there! I'm Tin Tak (Douglas) CHONG
 
 🎓 Final-year Financial Engineering student at HKUST | 📊 Quant & Fintech Enthusiast | 🤝 Community Leader
 
@@ -39,8 +39,8 @@ Developed an interpretable credit scoring model using SHAP to explain Random For
 ---
 
 ## 📫 Get in Touch!
-- 📧 chongtintak@connect.ust.hk  
-- 💼 [LinkedIn](https://www.linkedin.com/in/douglas-chongtintak/)
+- 📧 chongtt062@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/tin-tak-chong/)
 
 ---
 
