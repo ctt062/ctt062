@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about applying data-driven solution
 ## 🔧 Tech & Tools I Use
 - **Languages**: Python, C++, SQL, R, Pine Script, LaTeX  
 - **Libraries**: pandas, NumPy, scikit-learn, statsmodels, SciPy, yfinance, etc.
-- **Tools**: Git, VSCode,TradingView, Overleaf
+- **Tools**: Git, VSCode, TradingView, Overleaf
 
 ---
 
