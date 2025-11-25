@@ -1,13 +1,13 @@
 # 👋 Hi there! I'm Tin Tak (Douglas) CHONG
 
-🎓 Final-year Financial Engineering student at HKUST | 📊 Quant & Fintech Enthusiast | 🤝 Community Leader
+🎓 Final-year Financial Engineering student at HKUST | 📊 Quant & Fintech Enthusiast 
 
 Welcome to my GitHub profile! I'm passionate about applying data-driven solutions to real-world financial problems. Whether it’s building robust statistical arbitrage strategies, developing explainable credit scoring models, or exploring crypto market dynamics, I enjoy combining mathematical rigour with hands-on coding.
 
 ---
 
 ## 🔧 Tech & Tools I Use
-- **Languages**: Python, C++, SQL, R, Pine Script, LaTeX  
+- **Languages**: Python, C++, SQL, R, LaTeX  
 - **Libraries**: pandas, NumPy, scikit-learn, statsmodels, SciPy, yfinance, etc.
 - **Tools**: Git, VSCode, TradingView, Overleaf
 
@@ -28,13 +28,6 @@ Built and evaluated models (Logistic Regression, Random Forest, XGBoost, Neural 
 Developed an interpretable credit scoring model using SHAP to explain Random Forest predictions.  
 ⚙ *Python, scikit-learn, XGBoost, SHAP*  
 📈 *~80% accuracy, Macro F1-score 0.79; generated actionable insights on key financial indicators*
-
----
-
-## 💼 Experience Highlights
-- **Project Assistant @ Tech Nine Limited**: Delivered QR code and smart access systems for residential and commercial use.
-- **Summer Intern @ OCBC (COO Office)**: Working on operational excellence initiatives in 2025.
-- **Student Leader @ HKUST**: President of UG Hall VI's Connection Team, organising events for over 100+ residents.
 
 ---
 
