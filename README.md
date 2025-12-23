@@ -4,12 +4,7 @@
 
 Welcome to my GitHub profile! I'm passionate about applying data-driven solutions to real-world financial problems. Whether it’s building robust statistical arbitrage strategies, developing explainable credit scoring models, or exploring crypto market dynamics, I enjoy combining mathematical rigour with hands-on coding.
 
----
-
-## 🔧 Tech & Tools I Use
-- **Languages**: Python, C++, SQL, R, LaTeX  
-- **Libraries**: pandas, NumPy, scikit-learn, statsmodels, SciPy, yfinance, etc.
-- **Tools**: Git, VSCode, TradingView, Overleaf
+Checkout my [website](https://ctt062.github.io/chongtt-portfolio/)! 
 
 ---
 
