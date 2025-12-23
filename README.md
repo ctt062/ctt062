@@ -2,7 +2,7 @@
 
 🎓 Final-year Financial Engineering student at HKUST | 📊 Quant & Fintech Enthusiast 
 
-Welcome to my GitHub profile! I'm passionate about applying data-driven solutions to real-world financial problems. Whether it’s building robust statistical arbitrage strategies, developing explainable credit scoring models, or exploring crypto market dynamics, I enjoy combining mathematical rigour with hands-on coding.
+Welcome to my GitHub profile! I'm passionate about applying data-driven solutions to real-world financial problems. Whether it’s building robust statistical arbitrage strategies, statistical modelling, or exploring market dynamics, I enjoy combining mathematical rigour with hands-on coding.
 
 Checkout my [website](https://ctt062.github.io/chongtt-portfolio/)! 
 
