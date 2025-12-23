@@ -13,24 +13,6 @@ Welcome to my GitHub profile! I'm passionate about applying data-driven solution
 
 ---
 
-## 📌 Featured Projects
-📊 **Kalman Filter-Based Pairs Trading**  
-Designed a dynamic statistical arbitrage strategy using Kalman Filters to model time-varying hedge ratios in cointegrated Consumer Staples stock pairs.  
-⚙ *Python, pykalman, statsmodels, Yahoo Finance API*  
-📈 *Sharpe Ratio 1.26, Max Drawdown -3.5%, CAGR 6.7% (2022–2024 OOS)*
-
-🔍 **Fraud Detection with Machine Learning**  
-Built and evaluated models (Logistic Regression, Random Forest, XGBoost, Neural Network) on a highly imbalanced dataset (~0.8% fraud rate). Prioritised recall and AUC for rare event detection.  
-⚙ *Python, scikit-learn, imbalanced-learn, XGBoost*  
-📈 *Neural Network achieved 97.5% recall and AUC of 0.9964*
-
-💡 **Transparent Credit Scoring with Explainable ML**  
-Developed an interpretable credit scoring model using SHAP to explain Random Forest predictions.  
-⚙ *Python, scikit-learn, XGBoost, SHAP*  
-📈 *~80% accuracy, Macro F1-score 0.79; generated actionable insights on key financial indicators*
-
----
-
 ## 📫 Get in Touch!
 - 📧 chongtt062@gmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tin-tak-chong/)
