@@ -1,10 +1,10 @@
 # 👋 Hi there! I'm Tin Tak (Douglas) CHONG
 
-🎓 Final-year Financial Engineering student at HKUST | 📊 Quant & Fintech Enthusiast 
+🎓 Final-year Financial Engineering student at HKUST | 📊 Quant Enthusiast 
 
 Welcome to my GitHub profile! I'm passionate about applying data-driven solutions to real-world financial problems. Whether it’s building robust statistical arbitrage strategies, statistical modelling, or exploring market dynamics, I enjoy combining mathematical rigour with hands-on coding.
 
-Checkout my [website](https://ctt062.github.io/chongtt-portfolio/)! 
+Check out my [website](https://ctt062.github.io/chongtt-portfolio/)! 
 
 ---
 
