@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm passionate about applying data-driven solutions to real-world financial problems. Whether it’s building robust statistical arbitrage strategies, statistical modelling, or exploring market dynamics, I enjoy combining mathematical rigour with hands-on coding.
 
-Check out my [website](https://ctt062.github.io/chongtt-portfolio/)! 
+Check out my [website](https://ctt062.com/)! 
 
 ---
 
