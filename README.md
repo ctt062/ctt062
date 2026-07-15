@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Tin Tak (Douglas) CHONG
+# 👋 Hi there! This is Douglas!
 
 🎓 Final-year Financial Engineering student at HKUST | 📊 Quant Enthusiast 
 
