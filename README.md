@@ -4,19 +4,12 @@
 
 I'm a final-year Financial Engineering student at HKUST interested in using mathematics, statistics, and programming to understand financial markets.
 
-I enjoy working on:
+## 🌱 Currently Exploring
 
 - 📈 Quantitative research and quantitative trading
 - 📊 Statistical modelling and time-series analysis
 - 🤖 Machine learning and AI for financial applications
 - 💻 Data-driven software projects
-
-## 🌱 Currently Exploring
-
-- Quantitative research
-- Algorithmic trading strategies
-- Risk modelling
-- Machine learning for financial markets
 
 ## 🔗 Find Me Online
 
