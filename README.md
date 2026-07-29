@@ -20,9 +20,7 @@ I enjoy working on:
 
 ## 🔗 Find Me Online
 
-- 🌐 [Website](https://ctt062.com/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tin-tak-chong/)
-- 📧 [Email](mailto:chongtt062@gmail.com)
+- 🌐 [ctt062.com](https://ctt062.com/)
 
 ## 📊 GitHub Stats
 
