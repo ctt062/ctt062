@@ -2,7 +2,7 @@
 
 ### Financial Engineering Student · Quantitative Research Enthusiast · Developer
 
-I'm a final-year Financial Engineering student at HKUST interested in using mathematics, statistics, and programming to understand financial markets.
+I'm a fresh graduate Financial Engineering student at HKUST interested in using mathematics, statistics, and programming to understand financial markets.
 
 ## 🌱 Currently Exploring
 
