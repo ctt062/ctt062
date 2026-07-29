@@ -1,19 +1,33 @@
-# 👋 Hi there! This is Douglas!
+# 👋 Hi, I'm Douglas Chong
 
-🎓 Final-year Financial Engineering student at HKUST | 📊 Quant Enthusiast 
+### Financial Engineering Student · Quantitative Research Enthusiast · Developer
 
-Welcome to my GitHub profile! I'm passionate about applying data-driven solutions to real-world financial problems. Whether it’s building robust statistical arbitrage strategies, statistical modelling, or exploring market dynamics, I enjoy combining mathematical rigour with hands-on coding.
+I'm a final-year Financial Engineering student at HKUST interested in using mathematics, statistics, and programming to understand financial markets.
 
-Check out my [website](https://ctt062.com/)! 
+I enjoy working on:
 
----
+- 📈 Quantitative research and quantitative trading
+- 📊 Statistical modelling and time-series analysis
+- 🤖 Machine learning and AI for financial applications
+- 💻 Data-driven software projects
 
-## 📫 Get in Touch!
-- 📧 chongtt062@gmail.com 
+## 🌱 Currently Exploring
+
+- Quantitative research
+- Algorithmic trading strategies
+- Risk modelling
+- Machine learning for financial markets
+
+## 🔗 Find Me Online
+
+- 🌐 [Website](https://ctt062.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tin-tak-chong/)
+- 📧 [Email](mailto:chongtt062@gmail.com)
+
+## 📊 GitHub Stats
+
+![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctt062&show_icons=true&theme=tokyonight)
 
 ---
 
-> "Data is the new oil, but only if refined with skill and purpose."
-
-Thanks for visiting!
+Thanks for visiting! Feel free to connect or discuss quantitative finance, AI, and interesting projects.
