@@ -33,25 +33,23 @@ I enjoy working on:
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://ghstats.dev/api/card?username=ctt062&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://ghstats.dev/api/card?username=ctt062&theme=github_dark" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=ctt062&theme=tokyonight" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=ctt062&theme=github-dark" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-<img src="https://ghstats.dev/api/sparkline?username=ctt062&theme=tokyonight&days=30" alt="30-day commit activity" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ctt062&theme=tokyo-night&hide_border=true&area=true&height=280" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ctt062&theme=github-dark&hide_border=true&area=true&height=280" alt="Contribution Graph" />
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ctt062&theme=tokyonight" alt="Top Languages by Repo" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ctt062&theme=github_dark" alt="Top Languages by Repo" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ctt062&theme=tokyonight&utcOffset=8" alt="Productive Time (HKT)" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ctt062&theme=github_dark&utcOffset=8" alt="Productive Time (HKT)" />
     </td>
   </tr>
 </table>
