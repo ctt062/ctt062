@@ -1,20 +1,5 @@
 # 👋 Hi, I'm Douglas Chong
 
-### Financial Engineering Student · Quantitative Research Enthusiast · Developer
-
-I'm a fresh graduate Financial Engineering student at HKUST interested in using mathematics, statistics, and programming to understand financial markets.
-
-## 🌱 Currently Exploring
-
-- 📈 Quantitative research and quantitative trading
-- 📊 Statistical modelling and time-series analysis
-- 🤖 Machine learning and AI for financial applications
-- 💻 Data-driven software projects
-
-## 🔗 Find Me Online
-
-- 🌐 [ctt062.com](https://ctt062.com/)
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -23,11 +8,24 @@ I'm a fresh graduate Financial Engineering student at HKUST interested in using 
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://ghstats.dev/api/card?username=ctt062&theme=github_dark" alt="GitHub Stats" />
+    <td align="left" width="50%">
+
+### Financial Engineering Student · Quantitative Research Enthusiast · Developer
+
+I'm a fresh graduate Financial Engineering student at HKUST interested in using mathematics, statistics, and programming to understand financial markets.
+
+**Currently Exploring**
+- Quantitative research and quantitative trading
+- Statistical modelling and time-series analysis
+- Machine learning and AI for financial applications
+- Data-driven software projects
+
+**Find Me Online**
+- [ctt062.com](https://ctt062.com/)
+
     </td>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=ctt062&theme=github-dark" alt="GitHub Streak" />
+      <img src="https://ghstats.dev/api/card?username=ctt062&theme=github_dark" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
