@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Douglas Chong
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 *A snapshot of what I've been building*
@@ -14,14 +12,14 @@
 
 I'm a fresh graduate Financial Engineering student at HKUST interested in using mathematics, statistics, and programming to understand financial markets.
 
-**Currently Exploring**
-- Quantitative research and quantitative trading
-- Statistical modelling and time-series analysis
-- Machine learning and AI for financial applications
-- Data-driven software projects
+**🌱 Currently Exploring**
+- 📈 Quantitative research and quantitative trading
+- 📊 Statistical modelling and time-series analysis
+- 🤖 Machine learning and AI for financial applications
+- 💻 Data-driven software projects
 
-**Find Me Online**
-- [ctt062.com](https://ctt062.com/)
+**🔗 Find Me Online**
+- 🌐 [ctt062.com](https://ctt062.com/)
 
     </td>
     <td align="center" width="50%">
