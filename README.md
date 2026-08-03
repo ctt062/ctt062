@@ -33,10 +33,10 @@ I'm a fresh graduate Financial Engineering student at HKUST interested in using 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ctt062&theme=github_dark" alt="Top Languages by Repo" />
+      <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages by Repo" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ctt062&theme=github_dark&utcOffset=8" alt="Productive Time (HKT)" />
+      <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time (HKT)" />
     </td>
   </tr>
 </table>
