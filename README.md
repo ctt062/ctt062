@@ -10,7 +10,7 @@
 
 ### MPhil in Financial Engineering @ HKUST · Quantitative Research Enthusiast · Developer
 
-I'm an MPhil student in Financial Engineering at HKUST (Hong Kong University of Science and Technology), supervised by Prof. Jiang Wei. I'm interested in using mathematics, statistics, and programming to understand financial markets.
+I'm an MPhil student in Financial Engineering at HKUST, supervised by Prof. Jiang Wei. I'm interested in using mathematics, statistics, and programming to understand financial markets.
 
 **🌱 Currently Exploring**
 - 📈 Quantitative research and quantitative trading
