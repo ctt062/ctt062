@@ -28,8 +28,6 @@ I'm an MPhil student in Financial Engineering at HKUST, supervised by Prof. Jian
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ctt062&theme=github-dark&hide_border=true&area=true&height=280" alt="Contribution Graph" />
-
 <table>
   <tr>
     <td align="center" width="50%">
