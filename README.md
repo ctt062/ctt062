@@ -23,7 +23,7 @@ I'm an MPhil student in Financial Engineering at HKUST, supervised by Prof. Jian
 
     </td>
     <td align="center" width="50%">
-      <img src="https://ghstats.dev/api/card?username=ctt062&theme=github_dark" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ctt062&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
