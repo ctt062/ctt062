@@ -23,14 +23,10 @@ I'm an MPhil student in Financial Engineering at HKUST, supervised by Prof. Jian
 
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ctt062&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+      <img src="https://streak-stats.demolab.com/?user=ctt062&theme=github-dark&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
-
-<img src="https://streak-stats.demolab.com/?user=ctt062&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
 
 <table>
   <tr>
