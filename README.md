@@ -31,14 +31,6 @@ I'm an MPhil student in Financial Engineering at HKUST, supervised by Prof. Jian
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages by Repo" />
-    </td>
-    <td align="center" width="50%">
-      <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages by Commit" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
       <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Summary Stats" />
     </td>
     <td align="center" width="50%">
